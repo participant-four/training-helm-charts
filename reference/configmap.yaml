@@ -1,6 +1,6 @@
 apiVersion: v1
 data:
-  helloworld: your personal message here...
+  helloworld: Welkom op mijn test website
 kind: ConfigMap
 metadata:
   name: hello-world
